@@ -23,7 +23,7 @@
 
 [Using Grep/Regex for Parsing Files in Linux](https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux)
 
-[Add a directory to $path in Linux]((https://linuxize.com/post/how-to-add-directory-to-path-in-linux/))
+[Add a directory to $path in Linux](https://linuxize.com/post/how-to-add-directory-to-path-in-linux/)
 
 [VIM Cheatsheet](https://vim.rtorr.com/)
 
@@ -217,8 +217,6 @@
 
 [Red Teaming Resources](https://reconshell.com/red-teaming-resources/)
 
-[Red Ream Attack Lab for TTP Testing and Research]
-
 [Creating a Red Team Blue Team Homelab](https://hausec.com/2021/03/04/creating-a-red-blue-team-home-lab/)
 
 [Linux Rootkits: New Methods for Kernel 5.7+](https://xcellerator.github.io/posts/linux_rootkits_11/)
@@ -384,16 +382,7 @@
 [5 CLI tools every Python lover should have](https://medium.com/koko-networks/5-awesome-command-line-tools-for-python-developers-a7e3a29126c2)
 
 [Static Binaries](https://github.com/andrew-d/static-binaries/)
-
-
-
-
-
-
-
-
-
-
+a
 ## Blockchain
 
 [Immunefi](https://immunefi.com/hackers/)
@@ -579,28 +568,53 @@
 
 
 https://attackerkb.com/
+
 https://www.ssllabs.com/ssltest/analyze.html
+
 https://www.exploit-db.com/
+
 https://www.exploit-db.com/google-hacking-database
+
 https://vulners.com/
+
 https://cve.mitre.org/cve/search_cve_list.html
+
 https://attack.mitre.org/techniques/enterprise/
+
 https://virustotal.github.io/yara/
+
 https://maltiverse.com/search
+
 https://www.ip-tracker.org/
+
 https://openproxy.space/
+
 https://scamalytics.com/ip
+
 https://www.mmnt.net/
+
 https://macaddress.io/
+
 https://www.weakpass.com/
+
 https://developers.whatismybrowser.com/useragents/explore/
+
 https://dnschecker.org/mac-lookup.php
+
 https://www.redirect-checker.org/index.php
+
 https://osintframework.com/
+
 http://www.routerpwn.com/
+
 https://www.virustotal.com/gui/home/upload
+
 https://www.hybrid-analysis.com/
+
 https://www.linkedin.com/learning/?u=73724868
+
 https://www.shodan.io/
+
 https://www.similarweb.com/
+
 https://linux-commits-search.typesense.org/
